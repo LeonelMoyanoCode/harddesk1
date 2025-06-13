@@ -1,0 +1,14 @@
+React,typescript y demas dependencias.Cualquier duda que se tenga se consulta sin problema los productos estan subido a la base de datos pero son de prueba los reales los voy a cargar cuando ya tenga disponible el apartado de admnistracion
+Principal consigna:Necesito que el siguiente ecommerce quede totalmente funcional,para desplegarlo en el dominio y que empiece a ser un ecommerce al ser mi ecommerce personal para vender tecnologia por ahora celualres y accesorios
+
+Cosas que faltan.(en caso de que se pueda hacer cosas nuevas no hay problema)
+-Login/Register
+-Pasarela de pagos necesito que este integrada con pago en binance/mercadopago a eleccion del usuario y integrar tambien el sistema de envios que en este caso se podria elegir.
+-Administracion compleja que me deje ver la cantidad de gente que visita la pagina web quiero una interfaz bastante compleja donde pueda editar,subir producto.
+-Los apartados de cada productos y sus submenus correspondientes son los que faltan "/celulares" "/accesorios" y los que vienen dentro ej"/cargadores"
+
+Cosa que falla:
+-Filtrado de productos por almacenamiento,por marca,por ram.Todo deberia funcionar como se encuentra en el frontend,pero no estaria tomando los datos bien de la base de datos
+
+La idea de la pagina web esta casi resuelta solo que le falta mejorar en estos aspectos y en el diseño,llame a buscar a un programador porque siento que es algo muy complejo y mejor si comprendo en estas tecnologias que estoy trabajando.
+Los permisos de datos y demas de la base de datos supabase lo paso sin ningun problema.
