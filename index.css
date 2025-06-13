@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+@tailwind base;
+
+/* Asegúrate de tener estos import en tu archivo CSS global o en el archivo específico de estilos */
+@import "swiper/swiper-bundle.min.css";
+
+
+@tailwind components;
+@tailwind utilities;
+
+/*Clases*/
+.btn-paginated {
+    @apply border border-slate-700 rounded-md font-semibold text-base py-2 px-4  
+           hover:bg-slate-700 hover:text-white hover:scale-105 hover:shadow-md 
+           transition-all duration-200 
+           disabled:opacity-50 disabled:cursor-not-allowed 
+           disabled:border-slate-500 disabled:text-slate-500 
+           disabled:hover:bg-transparent disabled:hover:text-slate-500
+           mb-4;
+}
+
+
